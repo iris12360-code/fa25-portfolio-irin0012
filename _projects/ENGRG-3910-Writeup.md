@@ -1,9 +1,9 @@
 ---
 layout: project
-title: ENGRG 3900 Leadership Experience 
+title: ENGRG 3910 Applied Engineering Leadership  
 
-technologies: [Leadership, Respect, Responsbility, Listening skills, Confidence]
-image: /assets/images/group_photo.jpg
+technologies: [Leadership, Authenticity, Courage, Consciousness, Confidence]
+image: /assets/images/artifact.jpg
 ---
 
 In this journey of leadership, I have learned much about myself that I would love to share and also some awareness about some shortcomings that I want to be reminded of for further improvement. 
